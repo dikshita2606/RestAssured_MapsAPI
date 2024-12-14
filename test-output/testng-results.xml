@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-09T22:21:43 IST" name="Suite" finished-at="2024-12-09T22:21:54 IST" duration-ms="11049">
+    <groups>
+    </groups>
+    <test started-at="2024-12-09T22:21:43 IST" name="Test" finished-at="2024-12-09T22:21:54 IST" duration-ms="11049">
+      <class name="TestCases.AddPlaceInMaps">
+        <test-method signature="addPlace(org.testng.ITestContext)[pri:0, instance:TestCases.AddPlaceInMaps@72967906]" started-at="2024-12-09T22:21:43 IST" name="addPlace" finished-at="2024-12-09T22:21:49 IST" duration-ms="6271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3943a2be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPlace -->
+      </class> <!-- TestCases.AddPlaceInMaps -->
+      <class name="TestCases.DeletePlaceInMaps">
+        <test-method signature="DeletePlace(org.testng.ITestContext)[pri:0, instance:TestCases.DeletePlaceInMaps@7d8995e]" started-at="2024-12-09T22:21:53 IST" name="DeletePlace" finished-at="2024-12-09T22:21:54 IST" duration-ms="1583" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3943a2be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePlace -->
+      </class> <!-- TestCases.DeletePlaceInMaps -->
+      <class name="TestCases.UpdatePlaceInMaps">
+        <test-method signature="GetPlace(org.testng.ITestContext)[pri:0, instance:TestCases.UpdatePlaceInMaps@6cf0e0ba]" started-at="2024-12-09T22:21:51 IST" name="GetPlace" finished-at="2024-12-09T22:21:53 IST" duration-ms="1836" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3943a2be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPlace -->
+      </class> <!-- TestCases.UpdatePlaceInMaps -->
+      <class name="TestCases.GetPlaceInMaps">
+        <test-method signature="GetPlace(org.testng.ITestContext)[pri:0, instance:TestCases.GetPlaceInMaps@4f83df68]" started-at="2024-12-09T22:21:49 IST" name="GetPlace" finished-at="2024-12-09T22:21:51 IST" duration-ms="1225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@3943a2be]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetPlace -->
+      </class> <!-- TestCases.GetPlaceInMaps -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
